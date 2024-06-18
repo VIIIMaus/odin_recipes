@@ -1,1 +1,3 @@
-# odin_recipes
+Recipes masterlist
+
+Still working on it
