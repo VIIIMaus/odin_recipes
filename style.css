@@ -1,0 +1,15 @@
+#title {
+    text-align: center;
+}
+
+.recipe-name {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.images {
+    width: 500px;
+    height: auto;
+}
